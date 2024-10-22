@@ -1,4 +1,6 @@
-## Hi there 👋
+- 🌍 Hi, I'm Christoph Gruber from Austria 🇦🇹
+- 👨🏼‍🎓 Currently studying computer science at Technical University of Graz
+- 🧩 Curious about emulators, compilers and operating systems
 
 <!--
 **GChristoph/GChristoph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
